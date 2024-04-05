@@ -8,7 +8,7 @@ Before running the integration script, ensure you have the following:
 
 - Figma account: You'll need a Figma account to obtain the necessary tokens and access Figma files. Sign up for a Figma account if you don't have one already.
 
-- SmartUI account: You'll need a SmartUI account to upload images to [SmartUI](smartui.lambdatest.com).
+- SmartUI account: You'll need a SmartUI account to upload images to [SmartUI](https://www.smartui.lambdatest.com).
 
 ## Setup
 Clone the repository:
