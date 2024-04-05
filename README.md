@@ -25,12 +25,12 @@ pip install -r requirements.txt
 
 ## Set up environmental variables:
 
-FIGMA_TOKEN: Your Figma user token.
-FIGMA_FILE_TOKEN: Your Figma file token.
-LT_USERNAME: Your LambdaTest username.
-LT_ACCESS_KEY: Your LambdaTest access key.
-PROJECT_TOKEN: Your SmartUI project token.
-BUILD_NAME: Name for the SmartUI build.
+- FIGMA_TOKEN: Your Figma user token.
+- FIGMA_FILE_TOKEN: Your Figma file token.
+- LT_USERNAME: Your LambdaTest username.
+- LT_ACCESS_KEY: Your LambdaTest access key.
+- PROJECT_TOKEN: Your SmartUI project token.
+- BUILD_NAME: Name for the SmartUI build.
 
 ## Replace placeholder values in the script:
 
