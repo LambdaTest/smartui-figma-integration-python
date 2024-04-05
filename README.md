@@ -34,8 +34,8 @@ pip install -r requirements.txt
 
 ## Replace placeholder values in the script:
 
-Replace "id1", "id2", etc., with your actual Figma image IDs in the Python script (smartui_upload.py).
-Replace "name1", "name2", etc., with corresponding names for Figma images in the Python script (smartui_upload.py).
+Replace "id1", "id2", etc., with your actual Figma image IDs in the Python script.
+Replace "name1", "name2", etc., with corresponding names for Figma images in the Python script.
 
 ## Running the Script
 Run the integration script:
