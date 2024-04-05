@@ -8,7 +8,7 @@ Before running the integration script, ensure you have the following:
 
 - Figma account: You'll need a Figma account to obtain the necessary tokens and access Figma files. Sign up for a Figma account if you don't have one already.
 
-- SmartUI account: You'll need a SmartUI account to upload images to SmartUI. If you don't have a SmartUI account, sign up on the LambdaTest website.
+- SmartUI account: You'll need a SmartUI account to upload images to [SmartUI](smartui.lambdatest.com).
 
 ## Setup
 Clone the repository:
@@ -41,10 +41,10 @@ Replace "name1", "name2", etc., with corresponding names for Figma images in the
 Run the integration script:
 
 ```
-python smartui_upload.py
+python SmartUI_Figma.py
 ```
 
 The script will download images from Figma and upload them to SmartUI. Check the terminal output for progress and any errors encountered during the process.
 
 Support
-For any issues or questions regarding this integration script, please contact LambdaTest Support.
+For any issues or questions regarding this integration script, please contact support@lambdatest.com.
