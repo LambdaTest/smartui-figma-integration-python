@@ -1,4 +1,4 @@
-# Run SmartUI Figma Integration with Python on TestMu AI (Formerly LambdaTest)
+﻿# Run SmartUI Figma Integration with Python on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -41,8 +41,8 @@ With TestMu AI (Formerly LambdaTest), you can integrate Figma designs directly w
     | -------- | ----------- |
     | `FIGMA_TOKEN` | Your Figma user token |
     | `FIGMA_FILE_TOKEN` | Your Figma file token |
-    | `LT_USERNAME` | Your TestMu AI (LambdaTest) username |
-    | `LT_ACCESS_KEY` | Your TestMu AI (LambdaTest) access key |
+    | `LT_USERNAME` | Your TestMu AI (Formerly LambdaTest) username |
+    | `LT_ACCESS_KEY` | Your TestMu AI (Formerly LambdaTest) access key |
     | `PROJECT_TOKEN` | Your SmartUI project token |
     | `BUILD_NAME` | Name for the SmartUI build |
 
