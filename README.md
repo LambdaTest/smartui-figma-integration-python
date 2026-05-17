@@ -1,4 +1,4 @@
-# Run SmartUI Figma Integration with Python on TestMu AI (Formerly LambdaTest)
+﻿# Run SmartUI Figma Integration with Python on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -17,10 +17,10 @@ With TestMu AI (Formerly LambdaTest), you can integrate Figma designs directly w
 
 ### Prerequisites
 
-- [Python](https://www.python.org/) installed on your system.
+- Python installed on your system.
 - A Figma account to obtain the necessary tokens and access Figma files.
-- A TestMu AI (Formerly LambdaTest) account with SmartUI access. [Sign up here](https://www.testmuai.com/register/).
-- A SmartUI project token from your [SmartUI dashboard](https://smartui.lambdatest.com/projects).
+- A TestMu AI (Formerly LambdaTest) account with SmartUI access. Sign up here.
+- A SmartUI project token from your SmartUI dashboard.
 
 ### Setup
 
@@ -56,7 +56,7 @@ Run the integration script:
 python SmartUI_Figma.py
 ```
 
-The script will download images from Figma and upload them to SmartUI. Check the terminal output for progress and any errors. View visual comparison results in the [SmartUI Dashboard](https://smartui.lambdatest.com/).
+The script will download images from Figma and upload them to SmartUI. Check the terminal output for progress and any errors. View visual comparison results in the SmartUI Dashboard.
 
 ### Local testing with TestMu AI Tunnel
 
